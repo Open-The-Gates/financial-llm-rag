@@ -1,0 +1,12 @@
+langchain
+pypdf
+python-dotenv
+pdfplumber
+pandas
+openpyxl
+xlrd
+tabulate
+langchain-community
+sentence-transformers
+accelerate --upgrade
+transformers --upgrade
